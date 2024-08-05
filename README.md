@@ -1,5 +1,12 @@
 # _SKYCAST
 
+Check out the live website: [SKYCAST](https://aakashgaur03.github.io/_SKYCAST/)
+
+# Images
+![Image 1](./Images/Image1.png)
+
+![Image 2](./Images/Image2.png)
+
 This Weather Forecast App provides real-time weather information for cities around the world. It fetches data from a weather API to display the current weather conditions, including city name, weather condition, current temperature, feels like temperature, wind speed, humidity, wind direction, air pressure, latitude, and longitude. The app also features a search bar that allows users to search for specific locations and dynamically changes the background according to the weather conditions of the searched city.
 
 Technologies Used
